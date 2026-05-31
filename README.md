@@ -196,22 +196,12 @@ It represents:
 - A growing technical record for AETHER X GLOBAL
 
 ---
-
-## Links
-
-- Official Website: **https://aetherxglobal.com**
-- ---
-
-## Key Documents
+## Key Documents & Links
 
 - [Professional Services](SERVICES.md) — Commercial service portfolio for AI automation, software systems, financial technology, GitHub delivery, MVP execution, and technical advisory.
 - [Official Website](https://aetherxglobal.com) — AETHER X GLOBAL public website.
 - [Company Repository](https://github.com/ahmed369younis-hue/aetherxglobal) — Public GitHub presence for AETHER X GLOBAL.
-- GitHub Profile: **https://github.com/ahmed369younis-hue**
-- Company Repository: **https://github.com/ahmed369younis-hue/aetherxglobal**
-
----
-
+- [GitHub Profile](https://github.com/ahmed369younis-hue) — Public engineering profile and open-source activity.
 ## Status
 
 This portfolio is actively being developed as AETHER X GLOBAL builds its public engineering record, open-source contribution history, and software delivery presence.
