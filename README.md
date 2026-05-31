@@ -198,10 +198,11 @@ It represents:
 ---
 ## Key Documents & Links
 
+- [Client Pitch](CLIENT-PITCH.md) — Concise client-facing pitch for AETHER X GLOBAL services, delivery model, public evidence, and collaboration entry point.
 - [Professional Services](SERVICES.md) — Commercial service portfolio for AI automation, software systems, financial technology, GitHub delivery, MVP execution, and technical advisory.
 - [Engineering Case Studies](CASE-STUDIES.md) — Practical case studies showing dependency audit cleanup, frontend UX improvement, GitHub delivery, and AETHER X GLOBAL public engineering positioning.
 - [Official Website](https://aetherxglobal.com) — AETHER X GLOBAL public website.
 - [Company Repository](https://github.com/ahmed369younis-hue/aetherxglobal) — Public GitHub presence for AETHER X GLOBAL.
 - [GitHub Profile](https://github.com/ahmed369younis-hue) — Public engineering profile and open-source activity.
-
+  
 This portfolio is actively being developed as AETHER X GLOBAL builds its public engineering record, open-source contribution history, and software delivery presence.
