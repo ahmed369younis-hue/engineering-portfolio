@@ -200,6 +200,13 @@ It represents:
 ## Links
 
 - Official Website: **https://aetherxglobal.com**
+- ---
+
+## Key Documents
+
+- [Professional Services](SERVICES.md) — Commercial service portfolio for AI automation, software systems, financial technology, GitHub delivery, MVP execution, and technical advisory.
+- [Official Website](https://aetherxglobal.com) — AETHER X GLOBAL public website.
+- [Company Repository](https://github.com/ahmed369younis-hue/aetherxglobal) — Public GitHub presence for AETHER X GLOBAL.
 - GitHub Profile: **https://github.com/ahmed369younis-hue**
 - Company Repository: **https://github.com/ahmed369younis-hue/aetherxglobal**
 
