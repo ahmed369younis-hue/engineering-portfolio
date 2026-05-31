@@ -205,5 +205,6 @@ It represents:
 - [Company Repository](https://github.com/ahmed369younis-hue/aetherxglobal) — Public GitHub presence for AETHER X GLOBAL.
 - [GitHub Profile](https://github.com/ahmed369younis-hue) — Public engineering profile and open-source activity.
 - [LinkedIn Profile](https://www.linkedin.com/in/ahmed-younis-aetherx/) — Professional founder profile for AETHER X GLOBAL, capital markets background, AI automation, fintech systems, and GitHub-based software delivery.
+- [DEV Community](https://dev.to/ahmed-younis-aetherx) — Technical writing profile for AI automation, fintech systems, backend delivery, GitHub workflows, and AETHER X GLOBAL engineering notes.
   
 This portfolio is actively being developed as AETHER X GLOBAL builds its public engineering record, open-source contribution history, and software delivery presence.
