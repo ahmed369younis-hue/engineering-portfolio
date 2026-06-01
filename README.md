@@ -209,5 +209,9 @@ It represents:
 - [Product Hunt](https://www.producthunt.com/@ahmed-younis-aetherx) — Product launch profile for future AETHER X GLOBAL software products, AI automation tools, fintech systems, and public product releases.
 - [Hugging Face](https://huggingface.co/ahmed-younis-aetherx) — AI profile for AETHER X GLOBAL, focused on AI automation, LLM workflows, fintech systems, backend infrastructure, and future model or dataset experiments.
 - [Kaggle](https://www.kaggle.com/ahmedyounis363) — Data and AI profile for AETHER X GLOBAL, focused on market intelligence, fintech analytics, AI workflows, and future public notebooks or datasets.
-  
+
+## Technical Writing & Public Notes
+
+- [From Capital Markets to AI Automation: Building AETHER X GLOBAL in Public](https://dev.to/ahmed-younis-aetherx/from-capital-markets-to-ai-automation-building-aether-x-global-in-public-2g4a) — First public technical note explaining the transition from capital markets experience into AI automation, FinTech systems, backend infrastructure, and GitHub-based engineering delivery.
+
 This portfolio is actively being developed as AETHER X GLOBAL builds its public engineering record, open-source contribution history, and software delivery presence.
