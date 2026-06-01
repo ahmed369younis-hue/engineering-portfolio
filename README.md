@@ -140,6 +140,32 @@ AETHER X GLOBAL can support technical work across the following areas:
 - Strategy validation concepts
 - Investor intelligence and reporting systems
 
+## Private Core Platform Notice
+
+AETHER X GLOBAL maintains a private core codebase for internal product development, AI automation workflows, financial-technology systems, market-intelligence direction, backend infrastructure, and deployment-sensitive implementation work.
+
+This public engineering portfolio is intentionally designed as a non-sensitive evidence layer. It presents the company direction, engineering positioning, public milestones, technical writing, open-source activity, and professional delivery structure without exposing proprietary source code or confidential implementation details.
+
+The private codebase is not public in order to protect:
+
+- Intellectual property
+- Security-sensitive implementation details
+- API credentials and deployment configuration
+- Internal product architecture
+- Business logic and execution workflows
+- Financial-market and automation-related system logic
+
+Public progress is represented through:
+
+- GitHub contribution activity
+- Public engineering portfolio updates
+- Technical notes and case studies
+- Open-source contribution activity
+- Professional profile links
+- Website and public documentation
+
+This approach keeps the commercial core protected while still making the engineering direction, execution discipline, and public progress visible.
+
 ---
 
 ## Technical Stack
